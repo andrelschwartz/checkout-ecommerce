@@ -9,7 +9,7 @@ function calcularSubtotal(itens) {
   
     return subtotal;
   }
-  
+
   function contarItens(itens) {
     let total = 0;
   
